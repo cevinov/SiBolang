@@ -17,7 +17,7 @@ Fitur-fitur yang nantinya terdapat dalam aplikasi:
 
 5. Forum Diskusi: Membangun komunitas online untuk berdiskusi, berbagi pengetahuan, dan bertukar informasi seputar seni budaya tradisional. Terdapat fitur tambahan berupa fungsi upvote dan downvote, pengguna dapat memberikan penilaian apabila thread forum memberikan informasi yang salah. Dimana nantinya admin aplikasi akan menghapus thread untuk menjaga komunitas tetap bersih.
 
-Techstack: PHP, Laravel, HTML, CSS, MySQL
+Techstack: PHP, Laravel, HTML, CSS, SQLite
 
 https://laravel.com/docs/11.x/database#sqlite-configuration
 https://medium.com/@iqbal.ramadhani55/make-your-first-laravel-project-7e87f9ad672f
